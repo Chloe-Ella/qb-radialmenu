@@ -11,7 +11,7 @@ Config.MenuItems = {
             {
                 id = 'house',
                 title = 'House Options',
-                icon = 'home',
+                icon = 'homes',
                 items = {
                     {
                         id = 'givehousekey',
